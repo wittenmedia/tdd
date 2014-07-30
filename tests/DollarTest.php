@@ -1,5 +1,7 @@
 <?php
 
+use Money\Dollar;
+
 class DollarTest extends PHPUnit_Framework_TestCase
 {
     public function testMultiplication()
